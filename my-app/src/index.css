@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloock&family=Inter:wght@100;400&family=Laila:wght@700&family=Lato&family=Lobster&family=Lora&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+  outline: none;
+}
+.buttons {
+  padding: 10px 20px 10px 20px !important;
+  color: #fff;
+  background-color: rgba(55, 55, 236, 0.87);
+}
+.logo {
+  font-family: "Laila", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #273464 !important;
+}
+
+.maindiv {
+  width: "85%" !important;
+  margin: "0px auto";
+}
+.nav-link {
+  /* font-family: "Laila", sans-serif; */
+  font-weight: 100 !important;
+  color: #273464 !important;
+}
+.leftsideheding {
+  width: 60%;
+  margin: auto;
+}
+
+.rightsideimg {
+  position: relative;
+  width: 40%;
+}
+.demobtn {
+  border: 1px solid #3c4b64 !important     ;
+  border-radius: 5px;
+  padding: 10px 30px 10px 30px !important;
+  color: #3c4b64 !important;
+  background-color: #fff;
+}
+
+.homeimg {
+  width: 423px;
+  height: 466px;
+  object-fit: cover;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background: #ffffff;
+}
+.rectaingimg {
+  width: 185px;
+  height: 142px;
+  object-fit: cover;
+  background: #ffffff;
+}
+
+.img1 {
+  padding: 15px 26px 15px 20px !important;
+  background-color: #ffffff;
+  width: 162px;
+  height: 162px;
+  position: absolute;
+  margin-top: 257px;
+  margin-left: -110px;
+}
+.rectaingimg {
+  z-index: 1;
+}
+
+.img2 {
+  position: absolute;
+  width: 200px;
+  height: 250px;
+  margin-top: 47px;
+  margin-right: 23px;
+  margin-left: -89px;
+}
+.img3 {
+  margin-top: -450px;
+  width: 1505px !important;
+  height: 600px !important;
+  object-fit: cover;
+  position: relative;
+  z-index: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  margin-left: -200px;
+}
+
+.img4 {
+  width: 200px;
+  height: 250px;
+  margin-top: -61px;
+  margin-left: 279px;
+  position: absolute;
+  z-index: 1;
+}
+
+.img13 {
+  width: 300px;
+  height: 383px;
+  margin-top: 57px;
+  margin-left: 86px;
+  border-radius: 10px;
+}
+.img12 {
+  width: 161px;
+  height: 315px;
+  margin-top: -8px;
+  margin-left: -396px;
+  position: absolute;
+  z-index: 1;
+}
+.img11 {
+  width: 199px;
+  height: 244px;
+  margin-top: 249px;
+  margin-left: -71px;
+  position: absolute;
+  z-index: 1;
+}
+.canvasbargraph {
+  display: block;
+  box-sizing: border-box;
+  height: 306px !important;
+  width: 876px !important;
+  /* margin-left: 93px !important; */
+  margin-top: 58px !important;
+  color: #a2a3a5;
+}
+
+tbody tr td {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+thead tr th {
+  background-color: #adc6f8;
+  text-transform: uppercase !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+table {
+  width: 409px !important;
+}
+
+.img44 {
+  width: 336px;
+  height: 400px;
+  margin-left: 177px;
+  margin-top: 41px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin-left: -120px;
+}
+
+.box {
+  /* width: 300px; */
+  height: 150px;
+  background-color: #ffffff;
+  box-shadow: #fffffff5;
+  /* color: rgba(255, 192, 203, 0.932); */
+}
+
+.submitbtn {
+  margin-top: -5px;
+  background-color: #273464 !important;
+  color: #fff !important;
+  border-radius: 5px;
+  padding: 3px 20px 3px 20px !important;
+  border: 1px solid #273464 !important;
+  border-radius: 20px !important;
+  font-family: "Laila", sans-serif !important;
+  font-weight: 400 !important;
+}
+.setavailability {
+  font-family: "Laila", sans-serif !important;
+  font-weight: 700 !important;
+  color: #273464 !important;
+  font-size: 20px;
+}
+.report {
+  font-family: "Laila", sans-serif !important;
+  font-weight: 700 !important;
+  color: #273464 !important;
+  font-size: 16px;
+}
+.img66 {
+  width: 300px;
+  height: 200px;
+  margin-top: 273px;
+  margin-left: -150px;
+}
